@@ -6,8 +6,8 @@ body {
     border: solid 0.1em;
     width: 200px;
     height: 30px;
-    text-align: center;
     line-height: 30px;
+    text-align: center;
 }
 #versus {
     display: block;
@@ -31,6 +31,15 @@ body {
 #contentPlayer2 {
     display: inline-block;
     position: relative;
-    top: -93px;
+    top: -90px;
     left: 247px;
+}
+
+#labelP1, #labelP2 {
+    position: relative;
+    left: 77px;
+}
+
+#player1Plus {
+    
 }
