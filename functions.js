@@ -78,8 +78,7 @@
         refreshValues();
     }
 
-    function refreshValues() {          // Adicionar uma funcao para mudar o valor dos dois scoreboards
-                                            // para poder usar o botao de autoclear
+    function refreshValues() {
         var placarP1 = document.getElementById('player1Scoreboard');
         var placarP2 = document.getElementById('player2Scoreboard');
         placarP1.innerHTML = scoreP1;
