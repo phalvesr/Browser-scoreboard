@@ -1,2 +1,2 @@
 # Browser scoreboard
- A simple scroreboard developed for a browser aplication. I've used CSS, HTML and JS.
+ A simple scroreboard developed for a browser aplication. I used CSS, HTML and JS.
